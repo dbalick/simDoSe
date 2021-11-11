@@ -1,5 +1,5 @@
 # simDoSe: `Sim`ulate `Do`minance and `Se`lection
-*A Wright-Fisher simulator for arbitrary diploid selection evolving through realistic human demography.*
+*A fast Wright-Fisher simulator for arbitrary diploid selection evolving through realistic human demography.*
 
 ## Features
 - Fast and flexible due to the absence of linkage (i.e., infinite recombination limit)

@@ -14,5 +14,5 @@
 - Entirely command line-based, so the only needed software is Python 2.7 and the numpy, scipy, and pandas packages.
 - Flexible output specification, including full population, population sample, and per-gene site frequency spectra and corresponding summary statistics
 
-## Additional details, instructions for running, and examples
+## Additional details, instructions for running, examples
 Please see the simDoSe user manual for detailed information on the mathematical models and commannd line options.

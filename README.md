@@ -3,7 +3,7 @@
 
 ## Features
   - Produces a simulated site frequency spectrum (SFS) and summary statistics for user specified demography, diploid selection.
-  - Models random sampling of a population to output the SFS of a sequenced population sample.  
+  - Models random sampling of a population to output the SFS of a sequenced population sample with user specified sample size.  
   - Option to create many simulated 'genes' from a single simulation with a larger number of simulated sites.
   - Option to create gene sets from an imported list of lengths (i.e., target size/mutation rate)
   - Option to simultaneously create 'russian doll' simulated genesets, each formed of genes with descending target size (Lgenes=L/10, Lgenes=L/100, ...)
